@@ -7,9 +7,10 @@ public class CabBooking {
 		int a = 10 ;
 		int b = 20 ;
 		
-		System.out.println("Addition :" +( a+b));
+		int num = 10;
+		
+		System.out.println("Addition all:" +( a+b));
 
-       //code added
 	}
 
 }
