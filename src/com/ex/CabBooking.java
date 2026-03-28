@@ -11,6 +11,8 @@ public class CabBooking {
 		
 		System.out.println("Addition all:" +( a+b));
 
+		String name = "Renuka"//code added from github
+
 	}
 
 }
